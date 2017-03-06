@@ -1,0 +1,13 @@
+p{    
+font-family: 'Times New Roman', Times, serif; /* Шрифт с засечками */
+font-style: italic; /* Курсивное начертание */
+color:black; 
+font-size: medium;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif; /* Шрифт с засечками */
+    font-style: italic; /* Курсивное начертание */
+    margin-top: 8%;
+    color: white;
+    text-align:center;
+}
