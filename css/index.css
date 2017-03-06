@@ -1,15 +1,13 @@
-@media (min-width: 1600px) {
+@media screen and (min-width: 1500px){
 body{
-    /*padding: 0;*/
-    background:url(../img/fon4.jpg) no-repeat center center fixed;
-    
+    padding: 0;
+    background: url(../img/fon3.jpg) no-repeat center center fixed;
     /*position: center center fixed;*/
     background-repeat: no-repeat;
     background-size:cover;
     background-attachment:fixed;
-    margin:0;
-    padding:0;
-   }
+}
+}
 footer{
  background-image: url('../img/footer.jpg');
   position: fixed;
@@ -29,14 +27,10 @@ h1{
  color: white;
  text-align:center; 
 }
-}
 @media (max-width: 1200px){
   body{
-  background:url(../img/fon3.jpg) no-repeat center center fixed;
-    
-    /*position: center center fixed;*/
-    background-repeat: no-repeat;
-    background-size:cover;
+  background-color: black;
+    /*background-size:cover;*/
     background-attachment:fixed;
     margin:0;
     padding:0;
